@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Créé par nmahraz, le 24/09/2021-->
+<RetrieveValueSetResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:ihe:iti:svs:2008 SVS.xsd" xmlns="urn:ihe:iti:svs:2008">
+    <ValueSet id="1.2.250.1.213.1.1.4.2.291" displayName="TRE_R305-TypeRencontre" version="test">
+        <ConceptList>
+            <Concept code="EXTERNE" displayName="Acte et consultation externe (établissement)"
+                codeSystem="1.2.250.1.213.1.1.4.2.291"/>
+            <Concept code="SEANCE" displayName="Séance (établissement ou libéral)" codeSystem="1.2.250.1.213.1.1.4.2.291"/>
+        </ConceptList>
+    </ValueSet>
+</RetrieveValueSetResponse>
